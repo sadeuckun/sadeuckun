@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/fsade0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fsade0" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/furkansadeuckun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkansadeuckun" height="30" width="40" /></a>
-<a href="https://instagram.com/sadeyazilim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sadeyazilim" height="30" width="40" /></a>
+<a href="https://instagram.com/fsade0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fsade0" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@sadeyazilim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sadeyazilim" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/furkansade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="furkansade" height="30" width="40" /></a>
 </p>

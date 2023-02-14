@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **NodeJs and GoLang**
 
-- 🌱 I’m currently learning **GoLang,C#**
+- 🌱 I’m currently learning **GoLang, NodeJS, Java**
 
 - 🤝 I’m getting for help with **BTK Akademi,Patika.dev,Geleceği Yazanlar**
 

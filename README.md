@@ -34,7 +34,7 @@
 
 ###
 
-<h3 align="left">Programming Languages and Databases</h3>
+<h3 align="left">Technologies</h3>
 
 ###
 

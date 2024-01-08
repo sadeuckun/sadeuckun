@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on NodeJs and GoLang<br><br>🌱 I’m currently learning GoLang, NodeJS, Java<br><br>🤝 I’m getting for help with BTK Akademi,Patika.dev,Geleceği Yazanlar</p>
+<p align="left">🔭 I’m currently working on NodeJs and GoLang<br><br>🌱 I’m currently learning VueJS<br><br>🤝 I’m getting for help with BTK Akademi,Patika.dev,Geleceği Yazanlar</p>
 
 ###
 

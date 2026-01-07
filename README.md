@@ -1,14 +1,78 @@
-# 💫 About Me:
-As a **Full Stack Developer** 💻, I bring extensive experience in designing and implementing innovative solutions for software development processes. I excel at creating **user-friendly** and **mobile-responsive** 🌐 web applications using technologies such as **Node.js**, **MongoDB**, and **WordPress**. My focus is on **optimizing business processes** 📈 and delivering measurable results that add value to clients' operations.
+<h1>Hi, I'm Sade!</h1>
 
-📄 **Know about my experiences:** [**Personal Website**](https://sadeuckun.com/?lang=en) 🌟
+<p>
+I am a <strong>Software Developer</strong> with a strong focus on building <strong>scalable, production-ready web applications</strong>.  
+I work primarily with <strong>JavaScript</strong> and <strong>TypeScript</strong> across modern stacks such as <strong>React</strong>, <strong>Next.js</strong>, <strong>Node.js</strong>, and <strong>FastAPI</strong>.
+<br><br>
+I specialize in <strong>clean architecture design</strong>, <strong>robust API development</strong>, and delivering <strong>end-to-end solutions</strong> — from <strong>database design</strong> to <strong>deployment</strong>.  
+I value <strong>maintainable code</strong>, <strong>performance</strong>, and <strong>real-world usability</strong>, and I enjoy taking <strong>ownership of projects</strong> from idea to launch.
+</p>
+
+<p>
+📄 <strong>Know about my experiences:</strong><br />
+<a href="https://sadeuckun.com?lang=en" target="_blank">https://sadeuckun.com</a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+<div>
+  <img src="https://skillicons.dev/icons?i=ts" height="34" alt="TypeScript" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="JavaScript" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=py" height="34" alt="Python" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="34" alt="FastAPI" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="34" alt="Node.js" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=express" height="34" alt="Express.js" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=react" height="34" alt="React" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="34" alt="Next.js" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=vue" height="34" alt="Vue.js" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="34" alt="Tailwind CSS" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="34" alt="MongoDB" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="34" alt="MySQL" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=docker" height="34" alt="Docker" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="34" alt="Nginx" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="34" alt="Google Cloud" />
+</div>
+
+---
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sadeuckun) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/furkansadeuckun) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sadeuckun) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sadeyazilim) 
+### 🌍 Social
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![WooCommerce](https://img.shields.io/badge/WooCommerce-%235C00C7.svg?style=for-the-badge&logo=woocommerce&logoColor=white) ![Elementor](https://img.shields.io/badge/Elementor-%23FF5A59.svg?style=for-the-badge&logo=elementor&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+<div>
+  <a href="https://linkedin.com/in/furkansadeuckun" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="22" />
+  </a>
+  <a href="https://www.youtube.com/@sadeyazilim" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" height="22" />
+  </a>
+ <a href="https://blog.sadeuckun.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Blog&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="medium logo"  />
+  </a>
+  <a href="https://x.com/sadeuckun" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" height="22" />
+  </a>
+</div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=furkansade&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sadeuckun/sadeuckun/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sadeuckun/sadeuckun/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sadeuckun/sadeuckun/output/pacman-contribution-graph.svg">
+</picture>
